@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"math"
 )
+// https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/all/ALDS1_1_D
+// Maximum Profit
 
 func main() {
 

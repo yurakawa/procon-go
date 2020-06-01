@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/all/ALDS1_1_A
+// 挿入ソート
 
 func main() {
 	var n int

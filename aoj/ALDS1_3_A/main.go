@@ -8,6 +8,9 @@ import (
 	"strings"
 )
 
+// https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/all/ALDS1_3_A
+// スタック
+
 type Stack struct {
 	s [1000]int
 	top int

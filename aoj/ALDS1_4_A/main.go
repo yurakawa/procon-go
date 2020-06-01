@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 // https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/3/ALDS1_4_A
+// 線形探索
 
 func main (){
 
