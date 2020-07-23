@@ -20,7 +20,6 @@ func main(){
 		cnt := 0
 		for s := 0; s < h; s++ {
 			for t := 0; t < w; t++ {
-				fmt.Println(i&(1<<uint(s)))
 				if i&(1<<uint(s)) > 0 {
 						continue
 				}
