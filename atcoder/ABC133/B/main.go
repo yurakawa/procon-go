@@ -5,6 +5,8 @@ import (
 	"math"
 )
 
+// 座標上の点
+
 func main() {
 	var n, d int
 	fmt.Scan(&n, &d)
